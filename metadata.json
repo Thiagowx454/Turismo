@@ -1,0 +1,6 @@
+{
+  "name": "Horizonte Turismo",
+  "description": "Uma landing page moderna para agência de turismo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
